@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot-command-framework",
+  "version": "0.1.1",
+  "description": "Simple command handler/framework for Discord bots.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "discord",
+    "command",
+    "handler",
+    "command-handler",
+    "discord-bot",
+    "framework",
+    "command-framework"
+  ],
+  "author": "Souper",
+  "license": "GPL-3.0",
+  "dependencies": {
+
+  }
+}
