@@ -1,7 +1,8 @@
 {
   "name": "discord-bot-command-framework",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple command handler/framework for Discord bots.",
+  "repository": "https://github.com/supertransformer/discord-bot-command-framework",
   "main": "index.js",
   "scripts": {
   },

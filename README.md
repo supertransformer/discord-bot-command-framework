@@ -3,6 +3,10 @@
 
 This framework can be used with any node discord library.
 
+![](https://img.shields.io/npm/v/discord-bot-command-framework.svg)
+![](https://img.shields.io/github/stars/supertransformer/discord-bot-command-framework.svg)
+![](https://img.shields.io/github/issues/supertransformer/discord-bot-command-framework.svg)
+
 ## Example
 
 ```javascript
